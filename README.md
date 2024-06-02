@@ -1,3 +1,5 @@
+All rights belong to Muthuraman Muthuraman.
+
 # tPDC
 
 Functionality of the time resolved partial directed coherence code
